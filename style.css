@@ -46,7 +46,7 @@ margin-top: 5px;
 .kids{
   width: 100%;
   height: 380px;
-  background-image: linear-gradient(rgba(66, 64, 64, 0.74), rgba(20, 23, 24, 0.37)), url(../images/info.webp);
+  background-image: linear-gradient(rgba(66, 64, 64, 0.74), rgba(20, 23, 24, 0.37)), url(./images/info.webp);
   background-size: cover;
   background-repeat: no-repeat;
   box-shadow: 1000px;
@@ -84,7 +84,7 @@ color: rgb(244, 248, 243);
 .staff{
   width: 100%;
   height: 380px;
-  background-image: linear-gradient(rgba(66, 64, 64, 0.322), rgba(20, 23, 24, 0.123)), url(../images/marcel.webp);
+  background-image: linear-gradient(rgba(66, 64, 64, 0.322), rgba(20, 23, 24, 0.123)), url(./images/marcel.webp);
   background-size: cover;
   box-shadow: 1000px;
   padding: 15px;
@@ -120,7 +120,7 @@ color: rgb(160, 165, 159);
 .events{
   width: 100%;
   height: 380px;
-  background-image: linear-gradient(rgba(53, 51, 51, 0.692), rgba(83, 79, 79, 0.473)), url(../images/giving.webp);
+  background-image: linear-gradient(rgba(53, 51, 51, 0.692), rgba(83, 79, 79, 0.473)), url(./images/giving.webp);
   background-size: cover;
   box-shadow: 1000px;
   padding: 15px;
